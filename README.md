@@ -10,7 +10,7 @@
 
 special note: i try to use the folium module for present and visualize data to real time map and can get actual feel of how uber server may work.😎;);)
 
-dataset form kaggle 😂😂 , as always 
+dataset form kaggle 😂😂 , as always ;
 project from different source
 as ---------
 1. project from techlive.com 
