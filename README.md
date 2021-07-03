@@ -1,9 +1,9 @@
 # how-uber-car-work
 
  try to work on given public data-set from uber 
- to work and understand the working and thinking behind the working of uber cars
+ to work and understand the technecal aspect and thinking behind the working of uber taxi
  uses:
- 1. k-means machine leaning algorithm
+ 1. k-means machine learning algorithm
  2. uses the seaborn for visualization of data 
  3. project in python 
 
